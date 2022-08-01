@@ -1,0 +1,28 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	/*每个页面公共css */
+checkbox.red[checked] .wx-checkbox-input,
+checkbox.red.checked .uni-checkbox-input{
+	background-color: #ffffff !important;   /*背景 */
+	border-color: #ffffff !important;   /*边框 */
+	color: #2681FB !important;   /*对勾 */
+}
+checkbox.round .wx-checkbox-input,
+checkbox.round .uni-checkbox-input {
+	border-radius: 100rpx;
+}
+
+

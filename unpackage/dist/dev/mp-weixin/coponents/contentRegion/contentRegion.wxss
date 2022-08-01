@@ -1,0 +1,57 @@
+.wrapper {
+  margin: 10px 10px 0px 10px;
+  background-color: #f6f6f6;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+.wrapper .swiperWidth {
+  width: 48%;
+  height: 500rpx;
+}
+.wrapper .swiperWidth .image {
+  width: 100%;
+  border-radius: 12px;
+}
+.wrapper .contetRight {
+  width: 48%;
+  height: 600rpx;
+  border-radius: 12px;
+  margin-top: 10rpx;
+  margin-bottom: 10rpx;
+  background-color: #fff;
+}
+.wrapper .contetRight .name {
+  padding: 2rpx 4rpx;
+  width: 100%;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.wrapper .contetRight .productdescribe {
+  width: 100%;
+  font-size: 26rpx;
+  overflow: hidden;
+  display: -webkit-box;
+  text-overflow: ellipsis;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+}
+.wrapper .contetRight .picture image {
+  width: 100%;
+  height: 400rpx;
+  border-radius: 12px;
+}
+.wrapper .contetRight .price {
+  padding: 10rpx;
+}
+.wrapper .contetRight .price text:nth-child(1) {
+  color: orange;
+}
+.wrapper .contetRight .price text:nth-child(2) {
+  display: inline-block;
+  margin-left: 16rpx;
+  color: red;
+  font-size: 14rpx;
+}
+

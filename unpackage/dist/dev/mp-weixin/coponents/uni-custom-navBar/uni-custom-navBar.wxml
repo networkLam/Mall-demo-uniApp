@@ -1,0 +1,1 @@
+<view class="wrapper"><view class="status_bar"></view><view class="content"><view class="contentchild"><image src="../../static/icon/break.png" mode data-event-opts="{{[['tap',[['breakhanle',['$event']]]]]}}" bindtap="__e"></image><text>{{title}}</text><text></text></view></view></view>

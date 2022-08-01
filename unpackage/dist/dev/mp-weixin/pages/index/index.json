@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "首页",
+  "enablePullDownRefresh": true,
+  "onReachBottomDistance": 50,
+  "usingComponents": {
+    "index-head": "/coponents/indexHead/indexHead",
+    "mini-icon": "/coponents/miniIcon/miniIcon",
+    "content-region": "/coponents/contentRegion/contentRegion"
+  }
+}

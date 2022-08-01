@@ -1,0 +1,24 @@
+.warpper.data-v-04802b66 {
+  background-color: #f6f6f6;
+  display: flex;
+  flex-wrap: wrap;
+}
+.warpper .mini.data-v-04802b66 {
+  width: 20%;
+  margin: 10rpx 0;
+}
+.warpper .mini .icon.data-v-04802b66 {
+  display: flex;
+  justify-content: center;
+}
+.warpper .mini .mini-icon.data-v-04802b66 {
+  width: 80rpx;
+  height: 80rpx;
+  margin: 0 aotu;
+}
+.warpper .mini .text.data-v-04802b66 {
+  text-align: center;
+  font-size: 26rpx;
+  color: #979797;
+}
+

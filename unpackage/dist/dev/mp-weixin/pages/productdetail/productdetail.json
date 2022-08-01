@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "自定义",
+  "enablePullDownRefresh": false,
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "uni-goods-nav": "/uni_modules/uni-goods-nav/components/uni-goods-nav/uni-goods-nav",
+    "mybar": "/coponents/uni-custom-navBar/uni-custom-navBar"
+  }
+}

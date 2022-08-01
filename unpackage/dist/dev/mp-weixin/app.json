@@ -1,0 +1,38 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/info/info",
+    "pages/productdetail/productdetail",
+    "pages/shoppingCar/shoppingCar"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "list": [
+      {
+        "text": "首页",
+        "iconPath": "./static/icon/index.png",
+        "selectedIconPath": "./static/icon/index-active.png",
+        "pagePath": "pages/index/index"
+      },
+      {
+        "text": "购物车",
+        "iconPath": "./static/icon/car.png",
+        "selectedIconPath": "./static/icon/car-active.png",
+        "pagePath": "pages/shoppingCar/shoppingCar"
+      },
+      {
+        "text": "我",
+        "pagePath": "pages/info/info",
+        "iconPath": "./static/icon/me.png",
+        "selectedIconPath": "./static/icon/me-active.png"
+      }
+    ]
+  },
+  "usingComponents": {}
+}
