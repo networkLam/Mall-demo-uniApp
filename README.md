@@ -10,3 +10,5 @@
 ### 用户信息页
 ![image](https://user-images.githubusercontent.com/78193327/182146143-da994144-92c9-489a-975a-ed84c9cf9eaf.png)
 
+## ！！后台请clone这个地址：https://gitee.com/codeLink12138/mall-uniapp-server-node.git
+### github一直网络延时push不了。
